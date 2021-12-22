@@ -1,10 +1,7 @@
-HALAMAN PROJEK
+HALAMAN PROJEK OFFLINE
 - Tampilan Logo : Logo polos
 - Tampilan Greeting : Welcome + NamePlayer
 - Tampilan Main menu : Menus List
 - Tampilan Profile : Customize profile
-- Tampilan Shop : Buy Coins and Doze
 - Tampilan Friends : Friends List
-- Tampilan Tournament : Battle with online players
 - Tampilan Start : Show timer to start
-- Tampilan Ranking : Show rlayers ranking from tournament
