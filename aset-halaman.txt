@@ -7,3 +7,4 @@ HALAMAN PROJEK
 - Tampilan Friends : Friends List
 - Tampilan Tournament : Battle with online players
 - Tampilan Start : Show timer to start
+- Tampilan Ranking : Show rlayers ranking from tournament
