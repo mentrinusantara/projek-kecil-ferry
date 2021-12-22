@@ -1,0 +1,9 @@
+HALAMAN PROJEK
+- Tampilan Logo
+- Tampilan Selamat datang
+- Tampilan Menu utama
+- Tampilan Profile
+- Tampilan Shop
+- Tampilan Friends
+- Tampilan Tournament
+- Tampilan Mulai
