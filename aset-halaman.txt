@@ -5,3 +5,4 @@ HALAMAN PROJEK OFFLINE
 - Tampilan Profile : Customize profile
 - Tampilan Friends : Friends List
 - Tampilan Start : Show timer to start
+- Tampilan Practice : Shooting bots
