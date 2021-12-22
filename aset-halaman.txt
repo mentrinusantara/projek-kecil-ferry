@@ -1,4 +1,4 @@
-HALAMAN PROJEK
+HALAMAN PROJEK ONLINE
 - Tampilan Logo : Logo polos
 - Tampilan Greeting : Welcome + NamePlayer
 - Tampilan Main menu : Menus List
@@ -8,3 +8,4 @@ HALAMAN PROJEK
 - Tampilan Tournament : Battle with online players
 - Tampilan Start : Show timer to start
 - Tampilan Ranking : Show rlayers ranking from tournament
+- Tampilan Maintenance : System is under maintenance
